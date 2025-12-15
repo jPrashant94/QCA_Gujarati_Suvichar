@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Gujarati Suvichar</string>
+    <string name="please_wait">Please Wait..</string>
+    <string name="share">Share</string>
+
+    <string name="admob_app_id">ca-app-pub-1371799574437640~5055626575</string>
+
+    <!-- TEST -->
+
+    <!--    <string name="admob_banner">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--    <string name="admob_Interstitial">ca-app-pub-3940256099942544/1033173712</string>-->
+    <!--    <string name="admob_app_id">ca-app-pub-3940256099942544~5224354917</string>-->
+    <!--    <string name="ad_native_id">ca-app-pub-3940256099942544/2247696110</string>-->
+    <!--    <string name="admob_open_ad">ca-app-pub-3940256099942544/9257395921</string>-->
+    <string name="connect_internet">Please Connect to Internet and Retry</string>
+    <string name="retry">RETRY</string>
+</resources>
